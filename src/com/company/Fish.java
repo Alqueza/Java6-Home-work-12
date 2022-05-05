@@ -29,6 +29,6 @@ public class Fish {
         this.color = color;
     }
     public void fish(){
-        System.out.println(name+" плывет.");
+        System.out.println(name+" плавает в аквариуме.");
     }
 }
